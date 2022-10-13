@@ -1,3 +1,14 @@
 git remote add origin https://github.com/pandeygoverdhan/test-23451.git
 git branch -M main
 git push -u origin main
+echo "# test1234567" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pandeygoverdhan/test1234567.git
+git push -u origin main
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
